@@ -1,45 +1,25 @@
-download advance web view of jasonelle from github orfrom this repository.
-extract rar and change name to the name of app
-open the app folder in andriod studio
-use embeeded jdk
-upgrade graddle using run selected steps
-change app name in setting.gradle
-refactor folder name and rename directory to app name using run refeactor
-sycn the project 
-change appname in res>values>strings.xml
-update versions in build.graddle module file  
-	compileSdkVersion 31
-    defaultConfig {
-        applicationId "com.xyz.android"
-        minSdkVersion 22
-        // Android 8 is the minimum required for the playstore
-        targetSdkVersion 31
-sync project
-generate app icons and splash screen using appicon.co
-replace appicon in app>src>main>res using file explrorer
-rename all splash screens to splash.png and copy them to app>src>res
-open app>src>res>drawable>launch.xml and change anrdiod src to @drawable/splash under bitmap tag
-change splash screen background app>src>res>values>colors.xml <color name="colorLaunchScreen">#ffffff</color>
-update the code in assets>file>hello.json 
-build project
+1. Download the rar file name Alt-Wrapper.rar
+2. Extract the downloaded file and changed it's name to the APP NAME you want.
+3. Open the folder in Andriod Studio.
+4. Select JDK and upgrade Gradle if required.
+5. Change APP NAME in setting.gradle
+6. Refactor folder name and rename directory to APP NAME using run refeactor
+7. Sycn the project
+8. Update android properties in Android Manifest(Module) file and sycn the project
+9. Change the web url to yours in assets>file>hello.json 
+10. Build the project.
 
-{
-    "$jason": {
-        "head": {
-            "title": "Title"
-        },
-        "body": {
-            "background": {
-                "type": "html",
-                "url": "",
-                "style": {
-                    "background": "#ffffff",
-                    "progress": "#000000"
-                },
-                "action": {
-                    "type": "$default"
-                }
-            }
-        }
-    }
-}
+For splash screen and App icon
+1. Generate app icons and splash screen using appicon.co
+2. Replace appicon in app>src>main>res using file explrorer
+3. Rename all splash screens to splash.png and copy them to app>src>res
+4. Change splash screen background app>src>res>values>colors.xml <color name="colorLaunchScreen">#ffffff</color>
+
+
+Our wrapper proviedes following native functionalities
+1. Open Whatsapp chat
+2. Fetch GPS Location 
+3. Share Text 
+4. Share Image 
+5. Get Contacts 
+6. OneSignal SDK
