@@ -16,7 +16,7 @@ For splash screen and App icon
 4. Change splash screen background app>src>res>values>colors.xml <color name="colorLaunchScreen">#ffffff</color>
 
 
-Our wrapper proviedes following native functionalities
+Our wrapper provides following native functionalities
 1. [Open Whatsapp chat](https://www.notion.so/altventures/WhatsApp-feature-for-Jasonelle-wrapper-f3e8b90491fd4899b258052905e250c3)
 2. [Fetch GPS Location](https://www.notion.so/altventures/Get-Location-feature-for-Jasonelle-wrapper-5ea7fea949274343910da99b33c2038a)
 3. [Share Text](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05) 
