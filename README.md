@@ -1,5 +1,5 @@
 1. Download the rar file name Alt-Wrapper.rar
-2. Extract the downloaded file and changed it's name to the APP NAME you want.
+2. Extract the downloaded file and change it's name to the APP NAME you want.
 3. Open the folder in Andriod Studio.
 4. Select JDK and upgrade Gradle if required.
 5. Change APP NAME in setting.gradle
