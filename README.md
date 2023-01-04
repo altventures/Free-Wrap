@@ -5,7 +5,7 @@ All-in-one open source wrapper for no-code builders
 
 ## Community
 For help and general chat visit our website or drop us an email.
-- Landing Page : https://www.upwork.com/o/companies/~0135ffbdc67eef35b4/
+- Landing Page : https://altsprints.com/Alt-Sprints-ccd8b499cfdd444ab2b6b34b43f6cdba
 - Email : support@altsprints.com
 
 ## Features
