@@ -1,9 +1,11 @@
 
-
+[![HAuvHrl.th.png](https://iili.io/HAuvHrl.th.png)](https://freeimage.host/i/HAuvHrl)
 All-in-one open source wrapper for no-code builders
 
 ## Community
-https://www.upwork.com/o/companies/~0135ffbdc67eef35b4/
+For help and general chat visit our website or drop us an email.
+- Landing Page : (https://www.upwork.com/o/companies/~0135ffbdc67eef35b4/)
+- Email : support@altsprints.com
 
 ## Features
 Our wrapper provides the following native functionalities
@@ -13,6 +15,9 @@ Our wrapper provides the following native functionalities
 4. [Share Image](https://www.notion.so/altventures/Share-Image-feature-for-Jasonelle-wrapper-fa7672ceff0a4d28ade53813c68652dc)
 5. [Get Contacts](https://www.notion.so/altventures/Get-Contacts-feature-for-Jasonelle-wrapper-2172c072d2cb4e18a9f99b205829a8ff)
 6. [OneSignal SDK](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05)
+
+## Test APK
+To test our features, [click here](https://drive.google.com/file/d/1gSO5okNiBFA3oip_gGHKxymtd9J_e09u/view?usp=share_link) to download the free wrap app and install the apk on your android app.
 
 ## Instructions
 1. Download the rar file name Alt-Wrapper.rar
