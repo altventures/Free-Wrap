@@ -1,10 +1,20 @@
 
-[![N|Solid](https://drive.google.com/file/d/14ZwGuSNF6sf2vUT17OCgS04Mm5DkrSD0/view)]
+
 All-in-one open source wrapper for no-code builders
 
 ## Community
 https://www.upwork.com/o/companies/~0135ffbdc67eef35b4/
 
+## Features
+Our wrapper provides the following native functionalities
+1. [Open Whatsapp chat](https://www.notion.so/altventures/WhatsApp-feature-for-Jasonelle-wrapper-f3e8b90491fd4899b258052905e250c3)
+2. [Fetch GPS Location](https://www.notion.so/altventures/Get-Location-feature-for-Jasonelle-wrapper-5ea7fea949274343910da99b33c2038a)
+3. [Share Text](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05) 
+4. [Share Image](https://www.notion.so/altventures/Share-Image-feature-for-Jasonelle-wrapper-fa7672ceff0a4d28ade53813c68652dc)
+5. [Get Contacts](https://www.notion.so/altventures/Get-Contacts-feature-for-Jasonelle-wrapper-2172c072d2cb4e18a9f99b205829a8ff)
+6. [OneSignal SDK](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05)
+
+## Instructions
 1. Download the rar file name Alt-Wrapper.rar
 2. Extract the downloaded file and change it's name to the APP NAME you want.
 3. Open the folder in Andriod Studio.
@@ -21,12 +31,3 @@ For splash screen and App icon
 2. Replace appicon in app>src>main>res using file explrorer
 3. Rename all splash screens to splash.png and copy them to app>src>res
 4. Change splash screen background app>src>res>values>colors.xml <color name="colorLaunchScreen">#ffffff</color>
-
-
-Our wrapper provides the following native functionalities
-1. [Open Whatsapp chat](https://www.notion.so/altventures/WhatsApp-feature-for-Jasonelle-wrapper-f3e8b90491fd4899b258052905e250c3)
-2. [Fetch GPS Location](https://www.notion.so/altventures/Get-Location-feature-for-Jasonelle-wrapper-5ea7fea949274343910da99b33c2038a)
-3. [Share Text](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05) 
-4. [Share Image](https://www.notion.so/altventures/Share-Image-feature-for-Jasonelle-wrapper-fa7672ceff0a4d28ade53813c68652dc)
-5. [Get Contacts](https://www.notion.so/altventures/Get-Contacts-feature-for-Jasonelle-wrapper-2172c072d2cb4e18a9f99b205829a8ff)
-6. [OneSignal SDK](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05)
