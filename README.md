@@ -16,6 +16,30 @@ Our wrapper provides the following native functionalities
 4. [Share Image](https://www.notion.so/altventures/Share-Image-feature-for-Jasonelle-wrapper-fa7672ceff0a4d28ade53813c68652dc)
 5. [Get Contacts](https://www.notion.so/altventures/Get-Contacts-feature-for-Jasonelle-wrapper-2172c072d2cb4e18a9f99b205829a8ff)
 6. [OneSignal SDK](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05)
+7. Device Oreintation
+8. Open weblinks in-app
+9. Change notification bar color
+
+Besides these following features are also available 
+1. Select picture from gallery
+2. Audio Recorder 
+3. File Uploader 
+4. Alert
+5. Banner
+6. Take picture from Camera
+7. Scan QR/Barcode 
+
+
+## About:
+Quick set up with easy-to-follow documentation and a great number of native features makes it one of the most powerful wrappers built on top of Jasonelle. The best part is that it's open source, so you have full control to build in features at any stage.
+
+## Why are we building this? (maker’s comments)
+
+Being a part of a no-code venture studio, we have built dozens of apps using [bubble.io](http://bubble.io/) in the last few years.
+
+We have had to rely on wrappers available in the market to convert our web apps into native Android and iOS apps. These external solutions are great for one-time use but it is not possible to build in additional features yourself and the customer support is nonexistent given most wrappers are built by solopreneurs.
+
+Thus, building our own wrapper on top of jasonelle with the native functionalities that are important to us gave us flexibility and speed. With this we didn’t have to wait 1-2 weeks for a reply, where we were often told that the feature we required could not be incorporated. Plus, this way, we got full control of our wrapper to make required changes whenever we wanted.
 
 ## Test APK
 To test our features, [click here](https://drive.google.com/file/d/1gSO5okNiBFA3oip_gGHKxymtd9J_e09u/view?usp=share_link) to download the free wrap app and install the apk on your android app.
@@ -37,3 +61,6 @@ For splash screen and App icon
 2. Replace appicon in app>src>main>res using file explrorer
 3. Rename all splash screens to splash.png and copy them to app>src>res
 4. Change splash screen background app>src>res>values>colors.xml <color name="colorLaunchScreen">#ffffff</color>
+
+## 🤩 Credits:
+All credits to orignial repository [Jasonelle](https://github.com/jasonelle/jasonelle)
