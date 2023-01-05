@@ -6,7 +6,7 @@ All-in-one open source wrapper for no-code builders
 ## Community
 For help and general chat visit our website or drop us an email.
 - Landing Page : https://altsprints.com/Alt-Sprints-ccd8b499cfdd444ab2b6b34b43f6cdba
-- Email : support@altsprints.com
+- Email : admin@altsprints.com
 
 ## Features
 Our wrapper provides the following native functionalities
