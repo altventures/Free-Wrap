@@ -33,7 +33,7 @@ Besides these following features are also available
 ## About:
 Quick set up with easy-to-follow documentation and a great number of native features makes it one of the most powerful wrappers built on top of Jasonelle. The best part is that it's open source, so you have full control to build in features at any stage.
 
-## Why are we building this? (maker’s comments)
+## Why are we building this?
 
 Being a part of a no-code venture studio, we have built dozens of apps using [bubble.io](http://bubble.io/) in the last few years.
 
