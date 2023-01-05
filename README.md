@@ -16,17 +16,17 @@ Our wrapper provides the following native functionalities
 4. [Share Image](https://www.notion.so/altventures/Share-Image-feature-for-Jasonelle-wrapper-fa7672ceff0a4d28ade53813c68652dc)
 5. [Get Contacts](https://www.notion.so/altventures/Get-Contacts-feature-for-Jasonelle-wrapper-2172c072d2cb4e18a9f99b205829a8ff)
 6. [OneSignal SDK](https://www.notion.so/altventures/Share-Text-feature-for-Jasonelle-wrapper-e68baf0406af4f4987f6398903bacf05)
-7. Device Oreintation
+7. Device Orientation
 8. Open weblinks in-app
 9. Change notification bar color
 
 Besides these following features are also available 
-1. Select picture from gallery
+1. Select pictures from gallery
 2. Audio Recorder 
 3. File Uploader 
 4. Alert
 5. Banner
-6. Take picture from Camera
+6. Take a picture from Camera
 7. Scan QR/Barcode 
 
 
