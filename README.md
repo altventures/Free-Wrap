@@ -52,8 +52,8 @@ To test our features, [click here](https://drive.google.com/file/d/1gSO5okNiBFA3
 5. Change APP NAME in setting.gradle
 6. Refactor folder name and rename directory to APP NAME using run refeactor
 7. Sycn the project
-8. Update android properties in Android Manifest(Module) file and sycn the project
-9. Change the web url to yours in assets>file>hello.json 
+8. Update android properties in Build Gradle(Module) file and sycn the project
+9. Change the APP NAME and web url to yours in assets>file>hello.json 
 10. Build the project.
 
 For splash screen and App icon
