@@ -44,6 +44,10 @@ Thus, building our own wrapper on top of jasonelle with the native functionaliti
 ## Test APK
 To test our features, [click here](https://drive.google.com/file/d/1gSO5okNiBFA3oip_gGHKxymtd9J_e09u/view?usp=share_link) to download the free wrap app and install the apk on your android app.
 
+## Video Tutorial
+This video link will tell you everything you need to know about how to use Free Wrap to convert your web apps to mobile apps.
+Link: https://www.youtube.com/watch?v=S-9kR2_UkXs
+
 ## Instructions
 1. Download the rar file name Alt-Wrapper.rar
 2. Extract the downloaded file and change it's name to the APP NAME you want.
@@ -55,10 +59,6 @@ To test our features, [click here](https://drive.google.com/file/d/1gSO5okNiBFA3
 8. Update android properties in Build Gradle(Module) file and sycn the project
 9. Change the APP NAME and web url to yours in assets>file>hello.json 
 10. Build the project.
-
-## Video Tutorial
-This video link will tell you everything you need to know about how to use Free Wrap to convert your web apps to mobile apps.
-Link: https://www.youtube.com/watch?v=S-9kR2_UkXs
 
 For splash screen and App icon
 1. Generate app icons and splash screen using appicon.co
